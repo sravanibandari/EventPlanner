@@ -1,2 +1,2 @@
-# eventPlannerReact
-eventPlannerReact MVC Web Application
+# EventPlanner
+EventPlanner MVC Web Application
